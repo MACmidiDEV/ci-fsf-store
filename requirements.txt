@@ -13,3 +13,4 @@ sqlparse==0.4.1
 urllib3==1.25.7
 pillow==8.0.1
 django-crispy-forms==1.10.0
+django-countries==7.0
